@@ -1,0 +1,60 @@
+body{
+  
+    background-color:white;
+    
+
+    
+
+}
+
+#main {
+     
+     background-color:#ffffff; 
+     width:1200px;
+     margin: 0px auto;  
+
+
+
+  
+}
+
+h1,p{
+  text-align:center;
+
+}
+ul{
+  width: 70%;
+  margin: auto;  
+}
+li{
+  line-height: 1.5em;
+}
+button {
+  margin: 0 auto;
+  display: block;
+}
+blockquote{
+  width:800px;
+  margin: 0px auto;
+  font-style: italic;
+  
+  
+}
+img{
+
+  max-width:100%;
+  display:block;
+  height:auto;
+  margin: auto;
+  background-color: bisque;
+  
+  
+}
+footer{
+  font-size: x-large;
+  font-weight: bold;
+  font-stretch: expanded;
+  color:red;
+
+
+}
